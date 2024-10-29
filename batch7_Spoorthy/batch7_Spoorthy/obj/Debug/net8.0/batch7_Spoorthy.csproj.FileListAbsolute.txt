@@ -1,0 +1,14 @@
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\bin\Debug\net8.0\batch7_Spoorthy.exe
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\bin\Debug\net8.0\batch7_Spoorthy.deps.json
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\bin\Debug\net8.0\batch7_Spoorthy.runtimeconfig.json
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\bin\Debug\net8.0\batch7_Spoorthy.dll
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\bin\Debug\net8.0\batch7_Spoorthy.pdb
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\obj\Debug\net8.0\batch7_Spoorthy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\obj\Debug\net8.0\batch7_Spoorthy.AssemblyInfoInputs.cache
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\obj\Debug\net8.0\batch7_Spoorthy.AssemblyInfo.cs
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\obj\Debug\net8.0\batch7_Spoorthy.csproj.CoreCompileInputs.cache
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\obj\Debug\net8.0\batch7_Spoorthy.dll
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\obj\Debug\net8.0\refint\batch7_Spoorthy.dll
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\obj\Debug\net8.0\batch7_Spoorthy.pdb
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\obj\Debug\net8.0\batch7_Spoorthy.genruntimeconfig.cache
+D:\Spoorthy\batch7_Spoorthy\batch7_Spoorthy\obj\Debug\net8.0\ref\batch7_Spoorthy.dll
