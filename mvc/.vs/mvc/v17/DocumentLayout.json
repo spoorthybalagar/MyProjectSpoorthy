@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\spoomvc\\mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97042E02-4F51-4605-9C64-3FF978BD5F38}|mvc\\mvc.csproj|f:\\spoomvc\\mvc\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97042E02-4F51-4605-9C64-3FF978BD5F38}|mvc\\mvc.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97042E02-4F51-4605-9C64-3FF978BD5F38}|mvc\\mvc.csproj|f:\\spoomvc\\mvc\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97042E02-4F51-4605-9C64-3FF978BD5F38}|mvc\\mvc.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97042E02-4F51-4605-9C64-3FF978BD5F38}|mvc\\mvc.csproj|f:\\spoomvc\\mvc\\mvc\\controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97042E02-4F51-4605-9C64-3FF978BD5F38}|mvc\\mvc.csproj|solutionrelative:mvc\\controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97042E02-4F51-4605-9C64-3FF978BD5F38}|mvc\\mvc.csproj|f:\\spoomvc\\mvc\\mvc\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97042E02-4F51-4605-9C64-3FF978BD5F38}|mvc\\mvc.csproj|solutionrelative:mvc\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97042E02-4F51-4605-9C64-3FF978BD5F38}|mvc\\mvc.csproj|f:\\spoomvc\\mvc\\mvc\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97042E02-4F51-4605-9C64-3FF978BD5F38}|mvc\\mvc.csproj|solutionrelative:mvc\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97042E02-4F51-4605-9C64-3FF978BD5F38}|mvc\\mvc.csproj|f:\\spoomvc\\mvc\\mvc\\migrations\\20241016072638_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97042E02-4F51-4605-9C64-3FF978BD5F38}|mvc\\mvc.csproj|solutionrelative:mvc\\migrations\\20241016072638_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeModelsController.cs",
+              "DocumentMoniker": "F:\\spoomvc\\mvc\\mvc\\Controllers\\EmployeeModelsController.cs",
+              "RelativeDocumentMoniker": "mvc\\Controllers\\EmployeeModelsController.cs",
+              "ToolTip": "F:\\spoomvc\\mvc\\mvc\\Controllers\\EmployeeModelsController.cs",
+              "RelativeToolTip": "mvc\\Controllers\\EmployeeModelsController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:29:26.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241016072638_EmpInit.cs",
+              "DocumentMoniker": "F:\\spoomvc\\mvc\\mvc\\Migrations\\20241016072638_EmpInit.cs",
+              "RelativeDocumentMoniker": "mvc\\Migrations\\20241016072638_EmpInit.cs",
+              "ToolTip": "F:\\spoomvc\\mvc\\mvc\\Migrations\\20241016072638_EmpInit.cs",
+              "RelativeToolTip": "mvc\\Migrations\\20241016072638_EmpInit.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:26:39.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\spoomvc\\mvc\\mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "mvc\\appsettings.json",
+              "ToolTip": "F:\\spoomvc\\mvc\\mvc\\appsettings.json",
+              "RelativeToolTip": "mvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T06:52:29.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\spoomvc\\mvc\\mvc\\Program.cs",
+              "RelativeDocumentMoniker": "mvc\\Program.cs",
+              "ToolTip": "F:\\spoomvc\\mvc\\mvc\\Program.cs",
+              "RelativeToolTip": "mvc\\Program.cs",
+              "ViewState": "AgIAABEAAABAmpmZmVkgwB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:15:13.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "F:\\spoomvc\\mvc\\mvc\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "mvc\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "F:\\spoomvc\\mvc\\mvc\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "mvc\\Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:22:44.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "F:\\spoomvc\\mvc\\mvc\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "mvc\\Models\\EmployeeModel.cs",
+              "ToolTip": "F:\\spoomvc\\mvc\\mvc\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "mvc\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:04:43.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
