@@ -1,0 +1,14 @@
+D:\Spoorthy\constructor\constructor\bin\Debug\net8.0\constructor.exe
+D:\Spoorthy\constructor\constructor\bin\Debug\net8.0\constructor.deps.json
+D:\Spoorthy\constructor\constructor\bin\Debug\net8.0\constructor.runtimeconfig.json
+D:\Spoorthy\constructor\constructor\bin\Debug\net8.0\constructor.dll
+D:\Spoorthy\constructor\constructor\bin\Debug\net8.0\constructor.pdb
+D:\Spoorthy\constructor\constructor\obj\Debug\net8.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spoorthy\constructor\constructor\obj\Debug\net8.0\constructor.AssemblyInfoInputs.cache
+D:\Spoorthy\constructor\constructor\obj\Debug\net8.0\constructor.AssemblyInfo.cs
+D:\Spoorthy\constructor\constructor\obj\Debug\net8.0\constructor.csproj.CoreCompileInputs.cache
+D:\Spoorthy\constructor\constructor\obj\Debug\net8.0\constructor.dll
+D:\Spoorthy\constructor\constructor\obj\Debug\net8.0\refint\constructor.dll
+D:\Spoorthy\constructor\constructor\obj\Debug\net8.0\constructor.pdb
+D:\Spoorthy\constructor\constructor\obj\Debug\net8.0\constructor.genruntimeconfig.cache
+D:\Spoorthy\constructor\constructor\obj\Debug\net8.0\ref\constructor.dll
