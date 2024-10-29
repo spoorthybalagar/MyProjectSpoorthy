@@ -1,0 +1,14 @@
+D:\Spoorthy\Handson\Handson\bin\Debug\net8.0\Handson.exe
+D:\Spoorthy\Handson\Handson\bin\Debug\net8.0\Handson.deps.json
+D:\Spoorthy\Handson\Handson\bin\Debug\net8.0\Handson.runtimeconfig.json
+D:\Spoorthy\Handson\Handson\bin\Debug\net8.0\Handson.dll
+D:\Spoorthy\Handson\Handson\bin\Debug\net8.0\Handson.pdb
+D:\Spoorthy\Handson\Handson\obj\Debug\net8.0\Handson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spoorthy\Handson\Handson\obj\Debug\net8.0\Handson.AssemblyInfoInputs.cache
+D:\Spoorthy\Handson\Handson\obj\Debug\net8.0\Handson.AssemblyInfo.cs
+D:\Spoorthy\Handson\Handson\obj\Debug\net8.0\Handson.csproj.CoreCompileInputs.cache
+D:\Spoorthy\Handson\Handson\obj\Debug\net8.0\Handson.dll
+D:\Spoorthy\Handson\Handson\obj\Debug\net8.0\refint\Handson.dll
+D:\Spoorthy\Handson\Handson\obj\Debug\net8.0\Handson.pdb
+D:\Spoorthy\Handson\Handson\obj\Debug\net8.0\Handson.genruntimeconfig.cache
+D:\Spoorthy\Handson\Handson\obj\Debug\net8.0\ref\Handson.dll
