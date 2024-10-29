@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\spoomvc\\DatabaseFirstApprochMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{357926F8-3CCD-44D8-AB76-736F360A1432}|DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc.csproj|f:\\spoomvc\\databasefirstapprochmvc\\databasefirstapprochmvc\\controllers\\tblcountriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357926F8-3CCD-44D8-AB76-736F360A1432}|DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc.csproj|solutionrelative:databasefirstapprochmvc\\controllers\\tblcountriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357926F8-3CCD-44D8-AB76-736F360A1432}|DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc.csproj|f:\\spoomvc\\databasefirstapprochmvc\\databasefirstapprochmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357926F8-3CCD-44D8-AB76-736F360A1432}|DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc.csproj|solutionrelative:databasefirstapprochmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357926F8-3CCD-44D8-AB76-736F360A1432}|DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc.csproj|f:\\spoomvc\\databasefirstapprochmvc\\databasefirstapprochmvc\\models\\countrycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357926F8-3CCD-44D8-AB76-736F360A1432}|DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc.csproj|solutionrelative:databasefirstapprochmvc\\models\\countrycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357926F8-3CCD-44D8-AB76-736F360A1432}|DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc.csproj|f:\\spoomvc\\databasefirstapprochmvc\\databasefirstapprochmvc\\models\\tblcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357926F8-3CCD-44D8-AB76-736F360A1432}|DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc.csproj|solutionrelative:databasefirstapprochmvc\\models\\tblcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357926F8-3CCD-44D8-AB76-736F360A1432}|DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc.csproj|f:\\spoomvc\\databasefirstapprochmvc\\databasefirstapprochmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{357926F8-3CCD-44D8-AB76-736F360A1432}|DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc.csproj|solutionrelative:databasefirstapprochmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TblCountriesController.cs",
+              "DocumentMoniker": "F:\\spoomvc\\DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc\\Controllers\\TblCountriesController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochMvc\\Controllers\\TblCountriesController.cs",
+              "ToolTip": "F:\\spoomvc\\DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc\\Controllers\\TblCountriesController.cs",
+              "RelativeToolTip": "DatabaseFirstApprochMvc\\Controllers\\TblCountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:21:14.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryContext.cs",
+              "DocumentMoniker": "F:\\spoomvc\\DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc\\Models\\CountryContext.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochMvc\\Models\\CountryContext.cs",
+              "ToolTip": "F:\\spoomvc\\DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc\\Models\\CountryContext.cs",
+              "RelativeToolTip": "DatabaseFirstApprochMvc\\Models\\CountryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:20:20.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TblCountry.cs",
+              "DocumentMoniker": "F:\\spoomvc\\DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc\\Models\\TblCountry.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochMvc\\Models\\TblCountry.cs",
+              "ToolTip": "F:\\spoomvc\\DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc\\Models\\TblCountry.cs",
+              "RelativeToolTip": "DatabaseFirstApprochMvc\\Models\\TblCountry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:20:16.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\spoomvc\\DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochMvc\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\spoomvc\\DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DatabaseFirstApprochMvc\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABYAAAAAMzMzM/MmwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T07:11:28.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\spoomvc\\DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochMvc\\Program.cs",
+              "ToolTip": "F:\\spoomvc\\DatabaseFirstApprochMvc\\DatabaseFirstApprochMvc\\Program.cs",
+              "RelativeToolTip": "DatabaseFirstApprochMvc\\Program.cs",
+              "ViewState": "AgIAAAYAAABwzMzMzMwvwA4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:45:58.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

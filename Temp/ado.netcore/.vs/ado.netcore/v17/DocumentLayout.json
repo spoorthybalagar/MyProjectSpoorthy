@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Spoorthy\\ado.netcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF048AA2-DC9B-478D-B159-C8DBD1A79C2A}|ado.netcore\\ado.netcore.csproj|d:\\spoorthy\\ado.netcore\\ado.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF048AA2-DC9B-478D-B159-C8DBD1A79C2A}|ado.netcore\\ado.netcore.csproj|solutionrelative:ado.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Spoorthy\\ado.netcore\\ado.netcore\\Program.cs",
+              "RelativeDocumentMoniker": "ado.netcore\\Program.cs",
+              "ToolTip": "D:\\Spoorthy\\ado.netcore\\ado.netcore\\Program.cs",
+              "RelativeToolTip": "ado.netcore\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:19:08.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

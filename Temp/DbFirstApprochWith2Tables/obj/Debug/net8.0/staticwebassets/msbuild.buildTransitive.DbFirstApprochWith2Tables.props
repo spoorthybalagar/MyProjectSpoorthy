@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DbFirstApprochWith2Tables.props" />
+</Project>
